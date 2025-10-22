@@ -1,1 +1,56 @@
-a
+<!DOCTYPE html>
+<html>
+    <style>
+table, th, td {
+  border:1px solid rgb(0, 0, 0);
+}
+</style>
+    <head>
+        <title> Car </title>
+        <link Rel="icon" href="https://cdn.omlet.com/images/originals/breed_abyssinian_cat.jpg" type="image/x-icon">
+  <style>
+    body {
+      background-image: url('https://img.pikbest.com/backgrounds/20250109/professional-abstract-background-with-bold-vibrant-colors-for-website-hero_11304504.jpg!sw800');
+      background-size: cover;
+      background-repeat: no-repeat; 
+      background-position: center; 
+    }
+  </style>
+    </head>
+    <body>
+
+        <h1> Meow </h1>
+        <div> Woof </div>
+        <p> <p style="color:rgb(76, 0, 255);font-family:verdana">meow meow meow meow</p>
+        <img src="https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg" alt="car"
+style="max-width: 50%; height: auto"> <br>
+<a href="https://www.aspca.org/pet-care/cat-care/common-cat-behavior-issues/meowing-and-yowling"
+style="display:inline-block; padding:10px; background-color:#ff0000;
+color:rgb(255, 255, 255); text-decoration:none;">Cat button</a>
+<h2> A table showing how the colour of a cat effects them</h2>
+<table style="width:100%">
+    <tr>
+        <th>Calico</th>
+        <th>tuxedo</th>
+        <th>Void</th>
+    </tr>
+    <tr>
+        <td>silly</td>
+        <td>sleepy</td>
+        <td>hungry</td>
+    </tr>
+    <tr>
+        <td>fast</td>
+        <td>slow</td>
+        <td>sneeky</td>
+    </tr>
+</table>
+<div>  <p> <p style="color:rgb(255, 0, 0);font-family:verdana">I made this up ^^</p> </div>
+<h3> list of things abt cats </h3>
+<ul> 
+    <li>cool lookin</li>
+    <li>chill guy</li>
+    <li>fish</li>
+</ul>
+    </body>
+</html>
